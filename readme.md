@@ -18,8 +18,8 @@ map_generator -> Gera o mapa a partir dos hubs, nós, e conexões informadas no 
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/gerador-mapas-hub
-cd gerador-mapas-hub
+git clone https://github.com/Heidoco/hub-network-map
+cd hub-network-map
 pip install -r requirements.txt
 ```
 
