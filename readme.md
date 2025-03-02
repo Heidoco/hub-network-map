@@ -4,8 +4,8 @@ Um gerador de mapas interativo desenvolvido para visualizar  soluções de probl
 
 ## Funcionalidades Principais
 
-coord_exctract -> Permite extrair as coordenadas de uma imagem base
-map_generator -> Gera o mapa a partir dos hubs, nós, e conexões informadas no código
+- coord_exctract -> Permite extrair as coordenadas de uma imagem base
+- map_generator -> Gera o mapa a partir dos hubs, nós, e conexões informadas no código
 
 ## Requisitos do Sistema
 
